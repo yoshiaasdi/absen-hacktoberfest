@@ -1,6 +1,6 @@
 ### Ariaseta Setia Alam
-VP Product Development
-Santren Koding
-Saya mau nyari kaos
+VP Product Development <br>
+Santren Koding <br>
+Saya mau nyari kaos <br>
 
 
